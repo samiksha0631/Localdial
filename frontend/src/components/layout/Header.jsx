@@ -6,7 +6,9 @@ export default function header() {
 <div className='max-w-[1240px] py-[14px] items-center flex justify-between border-black mx-auto'>
 
     </div>
-
+        <div>
+          <h1>this is header file</h1>
+        </div>
     </div>
   );
 };
